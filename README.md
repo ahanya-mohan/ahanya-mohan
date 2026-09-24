@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahanya 👋</h1>
+<h1 align="center">Hi, I'm Ahanya </h1>
 
 <p align="center">
 Software developer who builds web applications and turns project briefs into
